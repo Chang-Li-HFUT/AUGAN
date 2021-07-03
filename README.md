@@ -16,7 +16,7 @@ Six types of plane-wave image dataset
 +experiments_carotid_cross_iq
 Each .mat data file contains the consponding single plane_wave image.  
 * Please run the dataset.py to load the .mat data file and modify the parameters acquisition_type, phantom_type and data_type to generate the training data and test data.
-* Using train.py to train the model and test.py to test the model ,  
+* Using train.py to train the model and test.py to test the model.
 ## Requirements
 + Pyhton3.6
 + pytorch-gpu (1.6.0 version)

@@ -1,7 +1,7 @@
 # AUGAN
 Code for paper: Plane-Wave Image Reconstruction via Generative Adversarial Network and Attention Mechanism
 ## About the paper
-* Title: [Plane-Wave Image Reconstruction via Generative Adversarial Network and Attention Mechanism](https://www.researchgate.net/publication/351870956_Plane-Wave_Image_Reconstruction_via_Generative_Adversarial_Network_and_Attention_Mechanism)
+* Title: [Plane-Wave Image Reconstruction via Generative Adversarial Network and Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/9449652)
 * Authors: Jiahua Tang, Zou Bao, Chang Li, Shuai Feng, Hu Peng 
 * Institution: Hefei University of Technology
 * Published in: IEEE Transactions on Instrumentation and Measurement
